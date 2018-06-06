@@ -16,6 +16,9 @@ IMEが確定するまでは、v-modelで紐づけた値(サンプル内では、
 このため取得したeventオブジェクトから、
 実際に入力されている値を取得しています。
 
+# デモ画面
+
+https://idani.github.io/vue-autokana/
 
 ## Build Setup
 
